@@ -6,7 +6,7 @@
 
 - 💬 Ask me about *JAM stack web development.*
 
-- 📫 How to reach me? *Discord - https://discord.com/invite/M25xKrDv*
+- 📫 How to reach me? *Discord - https://discord.gg/UZpx5zC9xZ*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
